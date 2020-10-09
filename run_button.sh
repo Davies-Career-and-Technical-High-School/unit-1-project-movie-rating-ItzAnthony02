@@ -1,2 +1,2 @@
-javac 
-java 
+javac MovieRating.java
+java MovieRating
